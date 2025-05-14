@@ -1,0 +1,5 @@
+here is the first file to be used for testing purposes 
+ 
+This content is added to the new file after renaming it 
+
+This is appended after the file is renamed 

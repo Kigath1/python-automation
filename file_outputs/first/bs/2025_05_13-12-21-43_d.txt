@@ -1,0 +1,4 @@
+This is the third file for testing   
+This content is added to the new file after renaming it 
+
+This is appended after the file is renamed 

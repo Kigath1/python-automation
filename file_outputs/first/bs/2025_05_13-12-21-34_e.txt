@@ -1,0 +1,9 @@
+This is the second file for testing purposes 
+Here is the second line for this file 
+Here is the second line for this file 
+
+
+  
+This content is added to the new file after renaming it 
+
+This is appended after the file is renamed 

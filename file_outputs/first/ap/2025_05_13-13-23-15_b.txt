@@ -1,0 +1,3 @@
+this are the second three letters of the alphabet 
+
+This is appended after the file is renamed 

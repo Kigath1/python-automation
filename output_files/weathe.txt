@@ -1,0 +1,43 @@
+ 2025-05-06 18:00:00, 16.98, scattered clouds 
+ 2025-05-06 21:00:00, 18.74, few clouds 
+ 2025-05-07 00:00:00, 21.15, few clouds 
+ 2025-05-07 03:00:00, 18.4, scattered clouds 
+ 2025-05-07 06:00:00, 14, broken clouds 
+ 2025-05-07 09:00:00, 11.45, overcast clouds 
+ 2025-05-07 12:00:00, 10.32, overcast clouds 
+ 2025-05-07 15:00:00, 15.94, broken clouds 
+ 2025-05-07 18:00:00, 21.61, broken clouds 
+ 2025-05-07 21:00:00, 24.04, scattered clouds 
+ 2025-05-08 00:00:00, 21.65, broken clouds 
+ 2025-05-08 03:00:00, 16.03, broken clouds 
+ 2025-05-08 06:00:00, 10.7, scattered clouds 
+ 2025-05-08 09:00:00, 7.12, clear sky 
+ 2025-05-08 12:00:00, 3.91, clear sky 
+ 2025-05-08 15:00:00, 8.28, overcast clouds 
+ 2025-05-08 18:00:00, 15.78, broken clouds 
+ 2025-05-08 21:00:00, 19.23, overcast clouds 
+ 2025-05-09 00:00:00, 20.06, broken clouds 
+ 2025-05-09 03:00:00, 13.87, scattered clouds 
+ 2025-05-09 06:00:00, 9.31, broken clouds 
+ 2025-05-09 09:00:00, 8.09, broken clouds 
+ 2025-05-09 12:00:00, 7.86, broken clouds 
+ 2025-05-09 15:00:00, 12.56, overcast clouds 
+ 2025-05-09 18:00:00, 18.96, overcast clouds 
+ 2025-05-09 21:00:00, 23.1, broken clouds 
+ 2025-05-10 00:00:00, 23.94, broken clouds 
+ 2025-05-10 03:00:00, 17.09, overcast clouds 
+ 2025-05-10 06:00:00, 13.3, overcast clouds 
+ 2025-05-10 09:00:00, 13.09, overcast clouds 
+ 2025-05-10 12:00:00, 13.03, overcast clouds 
+ 2025-05-10 15:00:00, 16.52, overcast clouds 
+ 2025-05-10 18:00:00, 21.05, overcast clouds 
+ 2025-05-10 21:00:00, 24.17, overcast clouds 
+ 2025-05-11 00:00:00, 24.18, overcast clouds 
+ 2025-05-11 03:00:00, 15.77, overcast clouds 
+ 2025-05-11 06:00:00, 11.38, overcast clouds 
+ 2025-05-11 09:00:00, 10.3, overcast clouds 
+ 2025-05-11 12:00:00, 9.42, overcast clouds 
+ 2025-05-11 15:00:00, 12.99, overcast clouds 
+
+
+https://languagetool.org/http-api/swagger-ui/#!/default/post_check
