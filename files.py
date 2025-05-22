@@ -103,6 +103,7 @@ for file in root_path:
 """
 
 # CONVERSION FROM TXT TO CSV 
+"""
 root_dir = Path('file_outputs') 
 filepath = root_dir.rglob("*") 
 
@@ -110,4 +111,21 @@ for file in filepath:
     if file.is_file(): 
         new_filepath = file.with_suffix(".txt") 
         file.rename(new_filepath)
+
+#  CREATING AN EMPTY FILE AND LATER WRITTING TO IT 
+""" 
+
+#  CREATING A FILE AND WRITING TO IT
+root_dir = Path("file_outputs/second")
+
+for i in range(5, 8): 
+    file_name = f"file-{i}.txt"
+    filepath = root_dir / file_name 
+    filepath.touch()
+    
+    with open(filepath, 'w') as file:
+        content = f"This is the content of file {i} \n"
+        file.write(content) 
+        print(f"File {i} has been created and written to")
+
 
